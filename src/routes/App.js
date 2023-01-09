@@ -8,8 +8,8 @@ const App = () => {
   return (
     <>
         <Routes>
-          <Route path='/SolFi-Web' element={<Home/>} />
-          <Route path='/about' element={<About />} />
+          <Route path='/solfi-web' element={<Home/>} />
+          <Route path='/solfi-web/about' element={<About />} />
         </Routes>
     </>
   );
