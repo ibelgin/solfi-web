@@ -6,13 +6,7 @@ import "./styles.css";
 const MainPage = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>Home Screen</p>
-        <div>
-          <Link to={{ pathname: "/solfi-web/about" }}>NavigateNow</Link>
-        </div>
-      </header>
+      <Link to={{ pathname: "/solfi-web/about" }}>NavigateNow</Link>
     </div>
   );
 };
