@@ -1,3 +1,3 @@
 SolFi Web Application
 
-The Map Functionality with Apps
+The Map Functionality with SolFi Mesh Network 
